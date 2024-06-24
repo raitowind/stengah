@@ -1,14 +1,14 @@
 
 
 ### INSTALL SCRIPT 
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/cibut2d/cip/main/v3.sh && chmod +x v3.sh && ./v3.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/raitowind/raizhel/main/v3.sh && chmod +x v3.sh && ./v3.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget -q https://raw.githubusercontent.com/cibut2d/cip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget -q https://raw.githubusercontent.com/raitowind/raizhel/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### REPO INDONESIA BUAT VPS INDO 
-<pre><code>wget https://raw.githubusercontent.com/cibut2d/cip/main/repoindo.sh && chmod +x repoindo.sh && ./repoindo.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/raitowind/raizhel/main/repoindo.sh && chmod +x repoindo.sh && ./repoindo.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
@@ -18,7 +18,7 @@
 - Tambah Swap 1GiB
 - Pemasangan yang dinamis
 - Tuning profile pada server
-- Xray Core by [@Julak_Bantur](https://github.com/cibut2d)
+- Xray Core by [@raitowind](https://github.com/raitowind)
 - Penambahan fail2ban
 - Auto block sebagian ads indo by default
 - Auto clear log per 3 menit
@@ -55,7 +55,7 @@
 ### Auther
 ```
 ```
-Julak :<a href="https://t.me/Cibut2d" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+Julak :<a href="https://t.me/widiacloud" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 ```
 ```
 ``
